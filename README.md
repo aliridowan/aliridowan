@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Ecommerce Application (z&zshop)**
 - 🌱 I’m currently learning **Typescript and Nodejs**
 - 👨‍💻 All of my projects are available at [https://github.com/aliridowan](https://github.com/aliridowan)
-- 📝 I regularly write articles on [Your Blog or Article Link](https://your-link.com)
 - 💬 Ask me about **Wev And Security**
 - 📫 How to reach me: **aliridowan.dev@gmail.com**
 
